@@ -1,0 +1,40 @@
+{
+    "name": "dot-template",
+    "version": "1.0.0",
+    "description": "doT engine middleware",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/misaka-ink/doT-template.git"
+    },
+    "keywords": [
+        "dot",
+        "dotjs",
+        "fetch2",
+        "middleware"
+    ],
+    "author": "Xinyi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/misaka-ink/doT-template/issues"
+    },
+    "homepage": "https://github.com/misaka-ink/doT-template#readme",
+    "dependencies": {
+        "dot": "^1.1.2"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.4.4",
+        "@babel/plugin-transform-runtime": "^7.4.4",
+        "@babel/preset-env": "^7.4.4",
+        "babel-loader": "^8.0.5",
+        "clean-webpack-plugin": "^2.0.1",
+        "terser-webpack-plugin": "^1.2.3",
+        "webpack": "^4.30.0",
+        "webpack-cli": "^3.3.1",
+        "webpack-dev-server": "^3.3.1",
+        "webpack-merge": "^4.2.1"
+    }
+}
