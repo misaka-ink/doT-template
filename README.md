@@ -1,2 +1,11 @@
 # doT-template
-fetch2 middleware - support doT.js template engine
+Fetch2 middleware - support doT.js template engine
+
+## Examples
+
+> Todo
+
+```javascript
+
+```
+

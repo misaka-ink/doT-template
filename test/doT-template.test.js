@@ -4,8 +4,8 @@
  */
 
 import Koa from 'koa'
-import fetch2 from '@misaka.ink/fetch2'
 import doT from '../lib/index'
+import fetch2 from '@misaka.ink/fetch2'
 
 // fetch2
 const f2 = fetch2.getInstance()
