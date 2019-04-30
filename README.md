@@ -1,5 +1,6 @@
 # doT-template
 [![Build Status](https://travis-ci.org/misaka-ink/doT-template.svg?branch=master)](https://travis-ci.org/misaka-ink/doT-template)
+
 Fetch2 middleware - support doT.js template engine
 
 ## Install
