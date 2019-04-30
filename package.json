@@ -1,5 +1,5 @@
 {
-    "name": "dot-template",
+    "name": "@misaka.ink/dot-template",
     "version": "1.0.0",
     "description": "doT engine middleware",
     "main": "index.js",
