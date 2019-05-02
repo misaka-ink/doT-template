@@ -25,7 +25,7 @@ const f2 = fetch2.getInstance()
         name: 'Mine'
     }
  }
-  */
+ */
 
 const templates = [
     {
